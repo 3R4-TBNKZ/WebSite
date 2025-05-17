@@ -1,6 +1,6 @@
-# AtlasOS Website
+# 3R4-OS Website
 
-AtlasOS is an optimized modification of Microsoft Windows tailored for gaming and performance. This repo contains the source code for the official website (https://atlasos.net), built with Astro, Tailwind CSS, and Bun.
+3R4-OS is an optimized modification of Microsoft Windows tailored for gaming and performance. This repo contains the source code for the official website (https://3r4os.net), built with Astro, Tailwind CSS, and Bun.
 
 ---
 
