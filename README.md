@@ -1,5 +1,9 @@
 # 3R4-OS Website
 
+<h1 align="center">
+  <a href="https://github.com/3R4-TBNKZ"><img src="https://github.com/3R4-TBNKZ/Book-s/blob/main/static/image/preview-banner-v1.png" alt="3R4"></a>
+</h1>
+
 3R4-OS is an optimized modification of Microsoft Windows tailored for gaming and performance. This repo contains the source code for the official website (https://3r4os.net), built with Astro, Tailwind CSS, and Bun.
 
 ---
